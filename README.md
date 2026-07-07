@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend | Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo **Thiago da Silva** e sou estudante de **Desenvolvimento de Sistemas**. Atualmente estou em formação nas linguagens **Python**, **Java**, **JavaScript** e **Arduino**, com foco em **Desenvolvimento Backend**.
+Me chamo **Thiago da Silva** e sou estudante de **Desenvolvimento de Sistemas**. Atualmente estou em formação nas linguagens **Python**, **Java**, **JavaScript**, **Arduino** e **C++**, com foco em **Desenvolvimento Backend**.
 
 Sou apaixonado por tecnologia e utilizo este GitHub para compartilhar projetos, estudos e acompanhar minha evolução como desenvolvedor. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e construir soluções cada vez melhores.
 
@@ -70,6 +70,15 @@ style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
 />
 
+<img
+align="left"
+alt="C++"
+title="C++"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+/>
+
 <br/>
 <br/>
 
@@ -81,6 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original
 - ☕ Java
 - 💻 JavaScript
 - 🤖 Arduino
+- ➕ C++
 - ⚙️ Desenvolvimento Backend
 - 🌐 APIs REST
 - 🗄️ Banco de Dados
